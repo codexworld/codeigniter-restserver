@@ -1,2 +1,2 @@
-# codeigniter-restserver
-CodeIgniter RESTful Web Services
+# CodeIgniter REST API
+REST Controller to implement RESTful Web Services in CodeIgniter.
